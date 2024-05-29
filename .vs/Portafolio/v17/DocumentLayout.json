@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -47,8 +47,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-29T13:49:04.609Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -61,8 +60,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T14:20:07.142Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -74,25 +72,24 @@
               "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T13:21:40.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T13:21:40.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-27T16:16:01.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "Portafolio\\Portafolio.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-27T14:53:46.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T14:53:46.167Z"
             }
           ]
         }

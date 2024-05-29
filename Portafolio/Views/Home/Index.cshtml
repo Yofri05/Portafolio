@@ -1,11 +1,35 @@
 ﻿@model Class
 
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Pagina Principal";
+
+    string convertirenmayusculas(string valor)
+    {
+        return valor.ToUpper() + "ZZZ";
+    };
+
+    DateTime hoy = DateTime.Now;
+    var nombres = new List<string>() { "Felipe", "Claudia", "Roberto" };
 }
 
 <div class="text-center">
-    <h1 class="display-4">Soy @Model.nombre (@Model.edad)</h1>
+    <ul>
+    @foreach (var nombre in nombres)
+    {
+        <li>@nombre</li>
+    }
+    </ul>
+    <h1 class="display-4">Soy @convertirenmayusculas(Model.nombre) (@Model.edad)</h1>
+    <h4>@hoy.ToString("dd/MM/yyyy hh:mm:ss tt")</h4>
+    @if(Model.edad >= 18)
+    {
+        <h4>Eres mayor de edad, puedes pasar <button>entrar</button></h4>
+    }
+    else
+    {
+        <h4>eres menor de edad, no puedes pasar</h4>
+    }
+
     <h2>Soy un desarrollador full stack especializado en tecnologias .net y javascript</h2>
     
     <img

@@ -28,3 +28,4 @@ C:\Users\Jefferson E.Z\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\refin
 C:\Users\Jefferson E.Z\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.pdb
 C:\Users\Jefferson E.Z\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.genruntimeconfig.cache
 C:\Users\Jefferson E.Z\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\ref\Portafolio.dll
+C:\Users\Jefferson E.Z\source\repos\Portafolio\Portafolio\obj\Debug\net6.0\Portafolio.sourcelink.json

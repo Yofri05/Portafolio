@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a8oROMX7lOCNERoG0bqIMzPB/rsXGzEg3Ui5O9u67G0=",
+  "Hash": "QeyjMJ6Neb6wZ9HgtnY8RzvU4zfbhTgGbvmK0wue+4o=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Images\\foto.jpg",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "Images/foto.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\foto.jpg"
     },
     {
       "Identity": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",

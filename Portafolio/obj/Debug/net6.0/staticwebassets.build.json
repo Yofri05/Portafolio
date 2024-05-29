@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NCwz3/BgYOQW/MYXNbmsvoLZX+Ub2/MNbKv+w6A653g=",
+  "Hash": "KruefIeeEwfm8VHCoXR4PaRtj6AAi1fSQI1jYyRgRr0=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\foto.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Images\\net-logo.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "Images/net-logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\net-logo.png"
     },
     {
       "Identity": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",

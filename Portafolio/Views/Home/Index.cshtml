@@ -2,37 +2,27 @@
 
 @{
     ViewData["Title"] = "Pagina Principal";
-
-    string convertirenmayusculas(string valor)
-    {
-        return valor.ToUpper() + "ZZZ";
-    };
-
-    DateTime hoy = DateTime.Now;
-    var nombres = new List<string>() { "Felipe", "Claudia", "Roberto" };
 }
 
 <div class="text-center">
-    <ul>
-    @foreach (var nombre in nombres)
-    {
-        <li>@nombre</li>
-    }
-    </ul>
-    <h1 class="display-4">Soy @convertirenmayusculas(Model.nombre) (@Model.edad)</h1>
-    <h4>@hoy.ToString("dd/MM/yyyy hh:mm:ss tt")</h4>
-    @if(Model.edad >= 18)
-    {
-        <h4>Eres mayor de edad, puedes pasar <button>entrar</button></h4>
-    }
-    else
-    {
-        <h4>eres menor de edad, no puedes pasar</h4>
-    }
-
+    <h1 class="display-4">Soy @Model.nombre (@Model.edad)</h1>
     <h2>Soy un desarrollador full stack especializado en tecnologias .net y javascript</h2>
     
     <img
     id="foto"
     src="~/images/foto.jpg" alt="Foto de Jeff" />
+</div>
+<div class="text-center">
+    <img id="imagen_dotnet" src="~/Images/net-logo.png" alt="dotnet logo" />
+</div>
+<div class="row justify-content-center text-center bg-primary">
+    <div class="col col-md-7 seccion-bienvenida">
+        <h1>te doy la bienvenida a mi portafolio</h1>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+    </div>
 </div>

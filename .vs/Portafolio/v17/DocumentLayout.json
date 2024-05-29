@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_presentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\wwwroot\\css\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jefferson e.z\\source\\repos\\portafolio\\portafolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "estilos.css",
               "DocumentMoniker": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\estilos.css",
               "RelativeDocumentMoniker": "Portafolio\\wwwroot\\css\\estilos.css",
               "ToolTip": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\estilos.css",
               "RelativeToolTip": "Portafolio\\wwwroot\\css\\estilos.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-29T13:49:04.609Z",
               "IsPinned": true,
@@ -48,7 +56,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "_habilidades.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_habilidades.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_habilidades.cshtml",
+              "ToolTip": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_habilidades.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_habilidades.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwCoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T16:22:29.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_presentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_presentacion.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_presentacion.cshtml",
+              "ToolTip": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_presentacion.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_presentacion.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T16:18:39.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Program.cs",
               "RelativeDocumentMoniker": "Portafolio\\Program.cs",
@@ -60,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
@@ -73,20 +107,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-27T16:16:01.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Portafolio.csproj",
               "DocumentMoniker": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
               "RelativeDocumentMoniker": "Portafolio\\Portafolio.csproj",

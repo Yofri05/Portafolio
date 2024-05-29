@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KruefIeeEwfm8VHCoXR4PaRtj6AAi1fSQI1jYyRgRr0=",
+  "Hash": "kjiwrirKIokkyslKBMXnsDZeSHzw/TKgRqwJiTGe4GI=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portafolio.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\estilos.css",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "css/estilos.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\estilos.css"
+    },
+    {
       "Identity": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
       "SourceId": "Portafolio",
       "SourceType": "Discovered",
@@ -72,25 +91,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\StyleSheet.css",
-      "SourceId": "Portafolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
-      "BasePath": "_content/Portafolio",
-      "RelativePath": "css/StyleSheet.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\favicon.ico",

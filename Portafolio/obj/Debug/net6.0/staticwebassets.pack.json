@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\Images\\foto.jpg"
     },
     {
+      "Id": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
       "Id": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jefferson E.Z\\.nuget\\packages\\": {}
+    "C:\\Users\\jeffe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+      "projectUniqueName": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
       "projectName": "Portafolio",
-      "projectPath": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
-      "packagesPath": "C:\\Users\\Jefferson E.Z\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jefferson E.Z\\source\\repos\\Portafolio\\Portafolio\\obj\\",
+      "projectPath": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+      "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jefferson E.Z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jeffe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -70,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

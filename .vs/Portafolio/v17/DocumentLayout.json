@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jeffe\\source\\repos\\portafolio\\portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jeffe\\source\\repos\\portafolio\\portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -82,11 +86,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "estilos.css",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\estilos.css",
               "RelativeDocumentMoniker": "Portafolio\\wwwroot\\css\\estilos.css",
@@ -99,20 +103,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ListadoProyectos.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
-              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "DocumentIndex": 0,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Contacto.cshtml",
+              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Contacto.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\Contacto.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T04:57:47.668Z",
+              "WhenOpened": "2024-06-01T05:09:06.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Proyectos.cshtml",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Proyectos.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Proyectos.cshtml",
@@ -120,12 +124,11 @@
               "RelativeToolTip": "Portafolio\\Views\\Home\\Proyectos.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T04:52:16.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T04:52:16.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_SeccionProyectos.cshtml",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
@@ -133,31 +136,30 @@
               "RelativeToolTip": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T03:12:37.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T03:12:37.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Portafolio\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCkAAAAkAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDAAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T02:04:05.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Portafolio\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAA5AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwB4AAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-29T13:21:40.76Z",
               "EditorCaption": ""
@@ -165,6 +167,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "_ListadoProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_ListadoProyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T04:57:47.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\appsettings.json",
               "RelativeDocumentMoniker": "Portafolio\\appsettings.json",
@@ -172,12 +186,11 @@
               "RelativeToolTip": "Portafolio\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T04:40:52.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T04:40:52.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Portafolio\\appsettings.Development.json",
@@ -185,12 +198,11 @@
               "RelativeToolTip": "Portafolio\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T04:36:07.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T04:36:07.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ServicioUnico.cs",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Servicios\\ServicioUnico.cs",
               "RelativeDocumentMoniker": "Portafolio\\Servicios\\ServicioUnico.cs",
@@ -202,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "HomeIndexViewModel.cs",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Models\\HomeIndexViewModel.cs",
               "RelativeDocumentMoniker": "Portafolio\\Models\\HomeIndexViewModel.cs",
@@ -214,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
@@ -226,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Program.cs",
               "RelativeDocumentMoniker": "Portafolio\\Program.cs",
@@ -238,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "EjemploGUIDViewModel.cs",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Models\\EjemploGUIDViewModel.cs",
               "RelativeDocumentMoniker": "Portafolio\\Models\\EjemploGUIDViewModel.cs",
@@ -250,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "RepositorioProyectos.cs",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Servicios\\RepositorioProyectos.cs",
               "RelativeDocumentMoniker": "Portafolio\\Servicios\\RepositorioProyectos.cs",
@@ -262,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_presentacion.cshtml",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_presentacion.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_presentacion.cshtml",
@@ -274,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_habilidades.cshtml",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_habilidades.cshtml",
               "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_habilidades.cshtml",
@@ -286,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Proyecto.cs",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Models\\Proyecto.cs",
               "RelativeDocumentMoniker": "Portafolio\\Models\\Proyecto.cs",
@@ -298,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Portafolio.csproj",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
               "RelativeDocumentMoniker": "Portafolio\\Portafolio.csproj",

@@ -2,6 +2,7 @@
 using Microsoft.Extensions.Logging;
 using Portafolio.Models;
 using Portafolio.Servicios;
+using PORTAFOLIO.Models;
 using System.Collections.Generic;
 using System.Diagnostics;
 
@@ -46,9 +47,17 @@ namespace Portafolio.Controllers
 		{
 			return View();
 		}
-		
+        [HttpPost]
+        public IActionResult Contacto(Contactos contactos)
+        {
+            return RedirectToAction("Gracias");
+        }
+        public IActionResult Gracias()
+        {
+            return View();
+        }
 
-		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });

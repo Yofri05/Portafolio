@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\servicios\\repositorioproyectos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jeffe\\source\\repos\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jeffe\\source\\repos\\portafolio\\portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\_seccionproyectos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jeffe\\source\\repos\\portafolio\\portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|solutionrelative:portafolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12A9DE9D-7182-4B73-A05C-3A925153A3F0}|Portafolio\\Portafolio.csproj|c:\\users\\jeffe\\source\\repos\\portafolio\\portafolio\\views\\home\\_habilidades.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -75,13 +75,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T16:16:01.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_SeccionProyectos.cshtml",
+              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "RelativeToolTip": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T03:12:37.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Portafolio\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:04:05.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositorioProyectos.cs",
+              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Servicios\\RepositorioProyectos.cs",
+              "RelativeDocumentMoniker": "Portafolio\\Servicios\\RepositorioProyectos.cs",
+              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Servicios\\RepositorioProyectos.cs",
+              "RelativeToolTip": "Portafolio\\Servicios\\RepositorioProyectos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:27:28.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Program.cs",
               "RelativeDocumentMoniker": "Portafolio\\Program.cs",
               "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Program.cs",
               "RelativeToolTip": "Portafolio\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T03:36:02.497Z",
               "EditorCaption": ""
@@ -97,55 +148,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-29T16:18:39.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-27T16:16:01.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_SeccionProyectos.cshtml",
-              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
-              "RelativeDocumentMoniker": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
-              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
-              "RelativeToolTip": "Portafolio\\Views\\Home\\_SeccionProyectos.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T03:12:37.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Portafolio\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T02:04:05.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RepositorioProyectos.cs",
-              "DocumentMoniker": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Servicios\\RepositorioProyectos.cs",
-              "RelativeDocumentMoniker": "Portafolio\\Servicios\\RepositorioProyectos.cs",
-              "ToolTip": "C:\\Users\\jeffe\\source\\repos\\Portafolio\\Portafolio\\Servicios\\RepositorioProyectos.cs",
-              "RelativeToolTip": "Portafolio\\Servicios\\RepositorioProyectos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T03:27:28.23Z"
             },
             {
               "$type": "Document",
